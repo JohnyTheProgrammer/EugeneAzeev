@@ -1,0 +1,2 @@
+def diferencial():
+    return False
